@@ -1,4 +1,4 @@
 (library
  (name app)
  (modes melange)
- (libraries lib lib_melange))
+ (libraries lib))

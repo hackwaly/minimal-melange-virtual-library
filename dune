@@ -2,4 +2,4 @@
  (target js)
  (module_systems es6)
  (promote (until-clean))
- (libraries app))
+ (libraries app lib_melange))

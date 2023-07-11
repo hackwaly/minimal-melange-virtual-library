@@ -1,6 +1,6 @@
 (library
  (name lib)
- (modes melange)
+ (modes byte melange)
  (wrapped false)
  (modules :standard compiler_specific)
  (virtual_modules compiler_specific)

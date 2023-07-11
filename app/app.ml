@@ -1,2 +1,2 @@
 let () = 
-  Compiler_specific.uchar_to_string (Uchar.of_int 13) |> Js.log
+  Compiler_specific.uchar_to_string (Uchar.of_int (Char.code 'A')) |> print_endline
