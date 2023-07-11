@@ -1,0 +1,5 @@
+(library
+ (modes melange)
+ (name lib_melange)
+ (implements lib)
+ (libraries))

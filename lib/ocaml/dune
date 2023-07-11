@@ -1,0 +1,4 @@
+(library
+ (name lib_ocaml)
+ (implements lib)
+ (libraries))

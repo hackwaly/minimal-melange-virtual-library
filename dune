@@ -1,0 +1,5 @@
+(melange.emit
+ (target js)
+ (module_systems es6)
+ (promote (until-clean))
+ (libraries app))
