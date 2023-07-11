@@ -1,8 +1,8 @@
 (library
  (name lib)
- (modes byte melange)
+ (modes melange)
  (wrapped false)
  (modules :standard compiler_specific)
  (virtual_modules compiler_specific)
- (default_implementation lib_ocaml)
+ ; (default_implementation lib_ocaml)
  (libraries))
